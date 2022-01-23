@@ -13,6 +13,9 @@
     .product__info {
         height: 100px;
         margin-bottom: 15px;
+        .product__rating img {
+            width: 25px;
+        }
     }
     .product__image {
         max-height: 200px;
